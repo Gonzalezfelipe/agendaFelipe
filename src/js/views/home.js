@@ -65,10 +65,10 @@ export const Home = () => {
                         <div className="card">
                             <div className="card-body">
                                 <img
-                                    src="https://via.placeholder.com/100"
+                                    src="https://img.freepik.com/fotos-premium/retrato-hombre-negocios-expresion-cara-seria-fondo-estudio-espacio-copia-bengala-persona-corporativa-enfoque-pensamiento-duda-mirada-facial-dilema-o-concentracion_590464-84924.jpg"
                                     className="card-img-top rounded-circle"
                                     alt="Contact"
-                                    style={{ width: "100px", height: "100px", marginRight: "15px" }}
+                                    style={{ width: "200px", height: "200px", marginRight: "15px" }}
                                 />
                                 <h5 className="card-title">{contact.name}</h5>
                                 <p className="card-text">

@@ -8,7 +8,7 @@ export const Navbar = () => {
     return (
         <nav className="navbar navbar-light bg-light">
             <div className="container">
-                <Link className="navbar-brand" to="/">contact.io</Link>
+                <Link className="navbar-brand" to="/">contactAPP</Link>
                 {store.currentAgenda ? (
                     <ul className="navbar-nav ml-auto">
                         <li className="nav-item">
